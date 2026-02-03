@@ -1,6 +1,6 @@
 # 🕵️‍♀️ RAG Hallucination Detector
 
-A powerful AI auditing tool designed to detect hallucinations in RAG (Retrieval-Augmented Generation) applications. It uses **Gemini 1.5 Flash** to cross-reference AI-generated responses against a source truth, providing a detailed truthfulness report.
+A powerful AI auditing tool designed to detect hallucinations in RAG (Retrieval-Augmented Generation) applications. It uses **Gemini 2.5 Flash** to cross-reference AI-generated responses against a source truth, providing a detailed truthfulness report.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
